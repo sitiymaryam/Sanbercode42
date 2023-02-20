@@ -1,5 +1,5 @@
 # Sanbercode42
-belajar membuat github
+belajar github
 
 
 menambahkan data
